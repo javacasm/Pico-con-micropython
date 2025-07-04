@@ -99,7 +99,8 @@ while True:         # Bucle infinito
 
 ## Controlamos automáticamente el brillo del LED en GPIO15
 
-Hacemos que suba el brillo desde el 0 (apagado) hasta el brillo máximo y luego lo bajamos hasta 0 otra vez.
+Hacemos que suba el brillo desde el 0 (apagado) hasta el brillo máximo y luego lo bajamos hasta 0 otra ve
+
 
 ```python
 from machine import Pin, PWM
